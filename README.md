@@ -1,2 +1,4 @@
 # Website
-Current website for our organisation. Made by me so it's pretty bad, but I'm sure other people in the organisation will make it look nicer. 
+Current website for our organisation. Feel free to take a look!
+
+**https://visualtweaks.github.io/**
