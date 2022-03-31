@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.main {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.discord {
+    font-size: 30px;
+}
