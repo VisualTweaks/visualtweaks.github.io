@@ -1,13 +1,33 @@
 body {
-    background-color: black;
+    background-color: #222f3e;
 }
 
 .main {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin-top: 10px;
 }
 
 .discord {
-    font-size: 30px;
+    border: 1px solid #7289DA;
+    color: white;
+    background-color: #7289DA;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
 }
+
+.discord:hover{
+    background-color: #4f6db0;
+}
+
+.discord:active{
+    background-color: #3b5998;
+}
+
+
